@@ -91,9 +91,9 @@ defaults:
 
 # Site Author
 author: 
-  name: DongHo Do
+  name: "DongHo Do"
   picture:
-  email: dodongho@gmail.com
+  email: "dodongho@gmail.com"
   twitter:
   links:
     - title:
