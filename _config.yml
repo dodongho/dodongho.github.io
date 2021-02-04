@@ -110,3 +110,5 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
+
+theme: jekyll-theme-time-machine
